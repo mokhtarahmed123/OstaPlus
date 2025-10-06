@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OSTA+.PL", "OSTA+.PL.csproj", "{7FBDEBA1-6FEB-4E4D-A9A8-90D38DA95140}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OSTA+.BLL", "..\OSTA+.BLL\OSTA+.BLL.csproj", "{DC223884-DB2C-47DC-9342-A117BFE95A74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OSTA+.DAL", "..\OSTA+.DAL\OSTA+.DAL.csproj", "{DFDBE23E-FAF9-4FF4-A8B4-3EC507516755}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FBDEBA1-6FEB-4E4D-A9A8-90D38DA95140}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FBDEBA1-6FEB-4E4D-A9A8-90D38DA95140}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FBDEBA1-6FEB-4E4D-A9A8-90D38DA95140}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FBDEBA1-6FEB-4E4D-A9A8-90D38DA95140}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC223884-DB2C-47DC-9342-A117BFE95A74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC223884-DB2C-47DC-9342-A117BFE95A74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC223884-DB2C-47DC-9342-A117BFE95A74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC223884-DB2C-47DC-9342-A117BFE95A74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFDBE23E-FAF9-4FF4-A8B4-3EC507516755}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFDBE23E-FAF9-4FF4-A8B4-3EC507516755}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFDBE23E-FAF9-4FF4-A8B4-3EC507516755}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFDBE23E-FAF9-4FF4-A8B4-3EC507516755}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26E928C4-6BB2-47F3-92C4-704BD48BBF9D}
+	EndGlobalSection
+EndGlobal
