@@ -1,0 +1,14 @@
+C:\Courses\Web Devolpment\.NET\Projects .net\OSTA+\API\OSTA\OSTA.DAL\obj\Debug\net8.0\OSTA.DAL.csproj.AssemblyReference.cache
+C:\Courses\Web Devolpment\.NET\Projects .net\OSTA+\API\OSTA\OSTA.DAL\obj\Debug\net8.0\OSTA.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Courses\Web Devolpment\.NET\Projects .net\OSTA+\API\OSTA\OSTA.DAL\obj\Debug\net8.0\OSTA.DAL.AssemblyInfoInputs.cache
+C:\Courses\Web Devolpment\.NET\Projects .net\OSTA+\API\OSTA\OSTA.DAL\obj\Debug\net8.0\OSTA.DAL.AssemblyInfo.cs
+C:\Courses\Web Devolpment\.NET\Projects .net\OSTA+\API\OSTA\OSTA.DAL\obj\Debug\net8.0\OSTA.DAL.csproj.CoreCompileInputs.cache
+C:\Courses\Web Devolpment\.NET\Projects .net\OSTA+\API\OSTA\OSTA.DAL\bin\Debug\net8.0\OSTA.DAL.deps.json
+C:\Courses\Web Devolpment\.NET\Projects .net\OSTA+\API\OSTA\OSTA.DAL\bin\Debug\net8.0\OSTA.DAL.runtimeconfig.json
+C:\Courses\Web Devolpment\.NET\Projects .net\OSTA+\API\OSTA\OSTA.DAL\bin\Debug\net8.0\OSTA.DAL.dll
+C:\Courses\Web Devolpment\.NET\Projects .net\OSTA+\API\OSTA\OSTA.DAL\bin\Debug\net8.0\OSTA.DAL.pdb
+C:\Courses\Web Devolpment\.NET\Projects .net\OSTA+\API\OSTA\OSTA.DAL\obj\Debug\net8.0\OSTA.DAL.dll
+C:\Courses\Web Devolpment\.NET\Projects .net\OSTA+\API\OSTA\OSTA.DAL\obj\Debug\net8.0\refint\OSTA.DAL.dll
+C:\Courses\Web Devolpment\.NET\Projects .net\OSTA+\API\OSTA\OSTA.DAL\obj\Debug\net8.0\OSTA.DAL.pdb
+C:\Courses\Web Devolpment\.NET\Projects .net\OSTA+\API\OSTA\OSTA.DAL\obj\Debug\net8.0\OSTA.DAL.genruntimeconfig.cache
+C:\Courses\Web Devolpment\.NET\Projects .net\OSTA+\API\OSTA\OSTA.DAL\obj\Debug\net8.0\ref\OSTA.DAL.dll
