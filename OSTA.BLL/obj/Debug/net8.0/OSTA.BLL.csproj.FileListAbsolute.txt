@@ -1,0 +1,15 @@
+C:\Courses\Web Devolpment\.NET\Projects .net\OSTA+\API\OSTA\OSTA.BLL\bin\Debug\net8.0\OSTA.BLL.deps.json
+C:\Courses\Web Devolpment\.NET\Projects .net\OSTA+\API\OSTA\OSTA.BLL\bin\Debug\net8.0\OSTA.BLL.dll
+C:\Courses\Web Devolpment\.NET\Projects .net\OSTA+\API\OSTA\OSTA.BLL\bin\Debug\net8.0\OSTA.BLL.pdb
+C:\Courses\Web Devolpment\.NET\Projects .net\OSTA+\API\OSTA\OSTA.BLL\bin\Debug\net8.0\OSTA.DAL.dll
+C:\Courses\Web Devolpment\.NET\Projects .net\OSTA+\API\OSTA\OSTA.BLL\bin\Debug\net8.0\OSTA.DAL.pdb
+C:\Courses\Web Devolpment\.NET\Projects .net\OSTA+\API\OSTA\OSTA.BLL\obj\Debug\net8.0\OSTA.BLL.csproj.AssemblyReference.cache
+C:\Courses\Web Devolpment\.NET\Projects .net\OSTA+\API\OSTA\OSTA.BLL\obj\Debug\net8.0\OSTA.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Courses\Web Devolpment\.NET\Projects .net\OSTA+\API\OSTA\OSTA.BLL\obj\Debug\net8.0\OSTA.BLL.AssemblyInfoInputs.cache
+C:\Courses\Web Devolpment\.NET\Projects .net\OSTA+\API\OSTA\OSTA.BLL\obj\Debug\net8.0\OSTA.BLL.AssemblyInfo.cs
+C:\Courses\Web Devolpment\.NET\Projects .net\OSTA+\API\OSTA\OSTA.BLL\obj\Debug\net8.0\OSTA.BLL.csproj.CoreCompileInputs.cache
+C:\Courses\Web Devolpment\.NET\Projects .net\OSTA+\API\OSTA\OSTA.BLL\obj\Debug\net8.0\OSTA.BLL.csproj.Up2Date
+C:\Courses\Web Devolpment\.NET\Projects .net\OSTA+\API\OSTA\OSTA.BLL\obj\Debug\net8.0\OSTA.BLL.dll
+C:\Courses\Web Devolpment\.NET\Projects .net\OSTA+\API\OSTA\OSTA.BLL\obj\Debug\net8.0\refint\OSTA.BLL.dll
+C:\Courses\Web Devolpment\.NET\Projects .net\OSTA+\API\OSTA\OSTA.BLL\obj\Debug\net8.0\OSTA.BLL.pdb
+C:\Courses\Web Devolpment\.NET\Projects .net\OSTA+\API\OSTA\OSTA.BLL\obj\Debug\net8.0\ref\OSTA.BLL.dll
