@@ -15,5 +15,26 @@ namespace OSTA.DAL.Repositories
         {
             _CategoryRepository = dbContext.Set<Category>();
         }
+
+        public async Task<List<Category>> GetAllCategories()
+        {
+            return await _CategoryRepository.ToListAsync();
+        }
+
+        public async Task<Category?> GetByName(string Name)
+        {
+            return await _CategoryRepository.AsNoTracking().FirstOrDefaultAsync(c => c.Name.ToLower() == Name.ToLower());
+        }
+
+        public async Task<string> GetIdByName(string Name)
+        {
+            var Result = await _CategoryRepository.AsNoTracking().FirstOrDefaultAsync(c => c.Name.ToLower() == Name.ToLower());
+            return Result.Id.ToString();
+        }
+
+        public Task<bool> NameISFoundWithAnotherId(string Name, string Id)
+        {
+            return _CategoryRepository.AsNoTracking().AnyAsync(c => c.Name == Name && c.Id != Id);
+        }
     }
 }
