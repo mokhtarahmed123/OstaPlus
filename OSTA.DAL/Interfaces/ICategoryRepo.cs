@@ -6,5 +6,9 @@ namespace OSTA.DAL.Interfaces
     {
         // Add More If You Want
 
+        public Task<Category> GetByName(string Name);
+        public Task<List<Category>> GetAllCategories();
+        public Task<bool> NameISFoundWithAnotherId(string Name, string Id);
+        public Task<string> GetIdByName(string Name);
     }
 }

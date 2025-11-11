@@ -5,13 +5,13 @@ namespace OSTA.DAL.Entities
     public class Service
     {
         [Key]
-        public string Id { get; private set; } = Guid.NewGuid().ToString();
-        public string Description { get; private set; }
-        public decimal BasePrice { get; private set; }
-        public int Duration { get; private set; }
+        public string Id { get; set; } = Guid.NewGuid().ToString();
+        public string Description { get; set; }
+        public decimal BasePrice { get; set; }
+        public int Duration { get; set; }
         [ForeignKey(nameof(Category))]
-        public string CategoryId { get; private set; }
-        public Category Category { get; private set; }
+        public string CategoryId { get; set; }
+        public Category Category { get; set; }
 
 
 
