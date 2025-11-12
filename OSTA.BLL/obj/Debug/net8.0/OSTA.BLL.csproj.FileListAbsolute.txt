@@ -13,3 +13,19 @@ C:\Courses\Web Devolpment\.NET\Projects .net\OSTA+\API\OSTA\OSTA.BLL\obj\Debug\n
 C:\Courses\Web Devolpment\.NET\Projects .net\OSTA+\API\OSTA\OSTA.BLL\obj\Debug\net8.0\refint\OSTA.BLL.dll
 C:\Courses\Web Devolpment\.NET\Projects .net\OSTA+\API\OSTA\OSTA.BLL\obj\Debug\net8.0\OSTA.BLL.pdb
 C:\Courses\Web Devolpment\.NET\Projects .net\OSTA+\API\OSTA\OSTA.BLL\obj\Debug\net8.0\ref\OSTA.BLL.dll
+D:\Projects\OstaPlus\OSTA.BLL\bin\Debug\net8.0\OSTA.BLL.deps.json
+D:\Projects\OstaPlus\OSTA.BLL\bin\Debug\net8.0\OSTA.BLL.dll
+D:\Projects\OstaPlus\OSTA.BLL\bin\Debug\net8.0\OSTA.BLL.pdb
+D:\Projects\OstaPlus\OSTA.BLL\bin\Debug\net8.0\OSTA.DAL.dll
+D:\Projects\OstaPlus\OSTA.BLL\bin\Debug\net8.0\OSTA.DAL.pdb
+D:\Projects\OstaPlus\OSTA.BLL\obj\Debug\net8.0\OSTA.BLL.csproj.AssemblyReference.cache
+D:\Projects\OstaPlus\OSTA.BLL\obj\Debug\net8.0\OSTA.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\OstaPlus\OSTA.BLL\obj\Debug\net8.0\OSTA.BLL.AssemblyInfoInputs.cache
+D:\Projects\OstaPlus\OSTA.BLL\obj\Debug\net8.0\OSTA.BLL.AssemblyInfo.cs
+D:\Projects\OstaPlus\OSTA.BLL\obj\Debug\net8.0\OSTA.BLL.csproj.CoreCompileInputs.cache
+D:\Projects\OstaPlus\OSTA.BLL\obj\Debug\net8.0\OSTA.BLL.sourcelink.json
+D:\Projects\OstaPlus\OSTA.BLL\obj\Debug\net8.0\OSTA.BLL.csproj.Up2Date
+D:\Projects\OstaPlus\OSTA.BLL\obj\Debug\net8.0\OSTA.BLL.dll
+D:\Projects\OstaPlus\OSTA.BLL\obj\Debug\net8.0\refint\OSTA.BLL.dll
+D:\Projects\OstaPlus\OSTA.BLL\obj\Debug\net8.0\OSTA.BLL.pdb
+D:\Projects\OstaPlus\OSTA.BLL\obj\Debug\net8.0\ref\OSTA.BLL.dll

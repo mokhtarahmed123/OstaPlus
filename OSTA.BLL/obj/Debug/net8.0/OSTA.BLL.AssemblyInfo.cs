@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OSTA.BLL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84738ecfe7165d665d78c269fab2dc8c8b7bd006")]
 [assembly: System.Reflection.AssemblyProductAttribute("OSTA.BLL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OSTA.BLL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

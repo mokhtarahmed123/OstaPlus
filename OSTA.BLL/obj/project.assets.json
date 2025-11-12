@@ -2691,23 +2691,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ma372\\.nuget\\packages\\": {},
+    "C:\\Users\\dell\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Courses\\Web Devolpment\\.NET\\Projects .net\\OSTA+\\API\\OSTA\\OSTA.BLL\\OSTA.BLL.csproj",
+      "projectUniqueName": "D:\\Projects\\OstaPlus\\OSTA.BLL\\OSTA.BLL.csproj",
       "projectName": "OSTA.BLL",
-      "projectPath": "C:\\Courses\\Web Devolpment\\.NET\\Projects .net\\OSTA+\\API\\OSTA\\OSTA.BLL\\OSTA.BLL.csproj",
-      "packagesPath": "C:\\Users\\ma372\\.nuget\\packages\\",
-      "outputPath": "C:\\Courses\\Web Devolpment\\.NET\\Projects .net\\OSTA+\\API\\OSTA\\OSTA.BLL\\obj\\",
+      "projectPath": "D:\\Projects\\OstaPlus\\OSTA.BLL\\OSTA.BLL.csproj",
+      "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\OstaPlus\\OSTA.BLL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ma372\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2716,15 +2716,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Courses\\Web Devolpment\\.NET\\Projects .net\\OSTA+\\API\\OSTA\\OSTA.DAL\\OSTA.DAL.csproj": {
-              "projectPath": "C:\\Courses\\Web Devolpment\\.NET\\Projects .net\\OSTA+\\API\\OSTA\\OSTA.DAL\\OSTA.DAL.csproj"
+            "D:\\Projects\\OstaPlus\\OSTA.DAL\\OSTA.DAL.csproj": {
+              "projectPath": "D:\\Projects\\OstaPlus\\OSTA.DAL\\OSTA.DAL.csproj"
             }
           }
         }
@@ -2739,7 +2738,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -2778,7 +2777,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -12,3 +12,18 @@ C:\Courses\Web Devolpment\.NET\Projects .net\OSTA+\API\OSTA\OSTA.DAL\obj\Debug\n
 C:\Courses\Web Devolpment\.NET\Projects .net\OSTA+\API\OSTA\OSTA.DAL\obj\Debug\net8.0\OSTA.DAL.pdb
 C:\Courses\Web Devolpment\.NET\Projects .net\OSTA+\API\OSTA\OSTA.DAL\obj\Debug\net8.0\OSTA.DAL.genruntimeconfig.cache
 C:\Courses\Web Devolpment\.NET\Projects .net\OSTA+\API\OSTA\OSTA.DAL\obj\Debug\net8.0\ref\OSTA.DAL.dll
+D:\Projects\OstaPlus\OSTA.DAL\bin\Debug\net8.0\OSTA.DAL.deps.json
+D:\Projects\OstaPlus\OSTA.DAL\bin\Debug\net8.0\OSTA.DAL.runtimeconfig.json
+D:\Projects\OstaPlus\OSTA.DAL\bin\Debug\net8.0\OSTA.DAL.dll
+D:\Projects\OstaPlus\OSTA.DAL\bin\Debug\net8.0\OSTA.DAL.pdb
+D:\Projects\OstaPlus\OSTA.DAL\obj\Debug\net8.0\OSTA.DAL.csproj.AssemblyReference.cache
+D:\Projects\OstaPlus\OSTA.DAL\obj\Debug\net8.0\OSTA.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\OstaPlus\OSTA.DAL\obj\Debug\net8.0\OSTA.DAL.AssemblyInfoInputs.cache
+D:\Projects\OstaPlus\OSTA.DAL\obj\Debug\net8.0\OSTA.DAL.AssemblyInfo.cs
+D:\Projects\OstaPlus\OSTA.DAL\obj\Debug\net8.0\OSTA.DAL.csproj.CoreCompileInputs.cache
+D:\Projects\OstaPlus\OSTA.DAL\obj\Debug\net8.0\OSTA.DAL.sourcelink.json
+D:\Projects\OstaPlus\OSTA.DAL\obj\Debug\net8.0\OSTA.DAL.dll
+D:\Projects\OstaPlus\OSTA.DAL\obj\Debug\net8.0\refint\OSTA.DAL.dll
+D:\Projects\OstaPlus\OSTA.DAL\obj\Debug\net8.0\OSTA.DAL.pdb
+D:\Projects\OstaPlus\OSTA.DAL\obj\Debug\net8.0\OSTA.DAL.genruntimeconfig.cache
+D:\Projects\OstaPlus\OSTA.DAL\obj\Debug\net8.0\ref\OSTA.DAL.dll
